@@ -1,1 +1,1 @@
-Simple code to test using Huggingface.js
+Simple codebase to test using Huggingface.js
